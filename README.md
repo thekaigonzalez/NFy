@@ -1,3 +1,4 @@
+![NFy Logo](./NFyLogo.png)
 # NFy Music service
 
 NFy is PC Spotify/Music listening alternative which provides simplistic features, extendablility, and a nice, easy to read code-base.
