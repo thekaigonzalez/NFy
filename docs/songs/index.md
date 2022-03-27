@@ -11,3 +11,4 @@ on how to become a song writer/developer, please refer to https://thekaigonzalez
 * [UK DRILL Suspect](./UK%20DRILL%20SUSPECT.ogg)
 * [Off the leash](./BabySantana%2C%20Yvngxchris%20-%20Off%20the%20leash!.ogg)
 * [Money so big](./Mon%C3%ABy%20so%20big.ogg)
+* [KING OF THIS KILLING SH..](./KING%20OF%20THIS%20KILLIN%20SHIT.ogg)
