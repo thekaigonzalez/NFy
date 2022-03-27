@@ -2,7 +2,7 @@
 
 NFy is PC Spotify/Music listening alternative which provides simplistic features, extendablility, and a nice, easy to read code-base.
 
-Along with a code-base, it also comes with a song server. Which you can find at https://thekaigonzalez.github.io/NFyMusic
+Along with a code-base, it also comes with a song server. Which you can find at https://thekaigonzalez.github.io/NFy
 
 ## Why use NFy?
 
