@@ -5,6 +5,10 @@ NFy is PC Spotify/Music listening alternative which provides simplistic features
 
 Along with a code-base, it also comes with a song server. Which you can find at https://thekaigonzalez.github.io/NFy
 
+## Is NFy Legal?
+
+100%. You're essentially downloading converted files and playing them through a fancy app. You've got features of spotify with low ram usage and offline listening.
+
 ## Why use NFy?
 
 ### Open Source
