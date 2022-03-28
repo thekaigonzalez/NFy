@@ -24,3 +24,5 @@ NFy uses no ads, therefore no [Net](#no-external-service) buffering. Therefore y
 ### No External Service
 
 No external internet services are used unlike spotify, while this does limit the features of NFy, it does allow you to listen to music handsfree.
+
+*the Modified Spotify logo originates from Spotify, all terms under Spotify Technology S.A, and they're respectful owner.*
