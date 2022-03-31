@@ -15,3 +15,4 @@ on how to become a song writer/developer, please refer to https://thekaigonzalez
 * [SpongeBob Grass skirt chase but it's drill](./Spongebob%20Grass%20Skirt%20Chase%20but%20it's%20Drill.ogg)
 * [Prolly my spookiest beat](./prolly%20my%20spookiest%20beat.ogg)
 * [Eminem - Not alike (feat. Royce da 5'9)](./Eminem%20-%20Not%20Alike.ogg)
+* [Dead Voxel (Synthwave Remix)](./Dead%20Voxel%20(Synthwave%20Remix).ogg)
